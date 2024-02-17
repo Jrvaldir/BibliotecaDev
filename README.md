@@ -1,7 +1,5 @@
 
-![Header](https://github.com/KAYOKG/BibliotecaDev/blob/main/.github/img/header.svg)
-
-# Biblioteca Dev 📚 <h1>
+![Header]Biblioteca Dev 📚 <h1>
 
 <h2 align="center"> Sumário </h2>
 
