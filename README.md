@@ -1,5 +1,5 @@
 
-![Header](https://github.com/KAYOKG/BibliotecaDev/blob/main/.github/img/header.svg)
+![Header](https://github.com/BibliotecaDev/blob/main/.github/img/header.svg)
 
 <h2 align="center"> Sumário </h2>
 
