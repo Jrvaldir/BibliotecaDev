@@ -1,5 +1,5 @@
-
-! # Biblioteca Dev 📚 <h1>
+# Biblioteca Dev 📚 <h1>
+___
 
 <h2 align="center"> Sumário </h2>
 
